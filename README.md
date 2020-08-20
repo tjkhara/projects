@@ -21,7 +21,7 @@ the new account holder.
 
 * Uses loops, random number generating, SHA256 hashing to automatically generate random passwords for users supplied as arguments on the command line along with the script.
 
-[bash scipting project - adding local users via the command line with comments field and randomly generated passwords](https://github.com/tjkhara/projects/blob/master/bash_scripting/generate-random-password.sh)
+[bash scipting project - adding local users via the command line with comments field and randomly generated passwords](./bash_scripting/add-new-local-user.sh)
 
 * Add users to your local account by suppying command line arguments as opposed to an interactive session.
 * Add username and the comments field for each user.
