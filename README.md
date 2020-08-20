@@ -16,3 +16,7 @@ not created, the script is to return an exit status of 1.
 * Displays the username, password, and host where the account was created. This way the
 help desk staff can copy the output of the script in order to easily deliver the information to
 the new account holder.
+
+[bash scripting project - generating random passwords](./bash_scripting/generate-random-password.sh)
+
+* Uses loops, random number generating, SHA256 hashing to automatically generate random passwords for users supplied as arguments on the command line along with the script.
