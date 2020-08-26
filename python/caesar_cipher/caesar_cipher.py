@@ -109,7 +109,7 @@ def brute_force(message):
 
 
 print("This is the encrypted message: \n")
-encrypted_message = encrypt("Get this message to the server", 13)
+encrypted_message = encrypt("Hi the attack will be at three am", 13)
 print(encrypted_message)
 print("\n")
 
@@ -120,4 +120,4 @@ print("\n")
 
 
 print("Using brute force to crack the encryption: \n")
-brute_force('trg guvf zrffntr gb gur znva freire')
+brute_force(encrypted_message)
