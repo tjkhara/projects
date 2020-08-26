@@ -43,3 +43,7 @@ the new account holder.
   * Reversed the string
   * Used a randomly shuffled alphabet for a caesar cipher
 * Contains decryption method as well
+
+[Traversing Directories and Files Recursively To Search For a Pattern in the Text Files Using Regular Expressions](https://github.com/tjkhara/projects/tree/master/python/traversing_file_structure_and_using_regex)
+
+* Used os.walk() to traverse through directory structure and examine the content of all the text files to look for a link regular expression pattern
