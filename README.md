@@ -28,3 +28,18 @@ the new account holder.
 * A randomly generated password will be added for each added user.
 * The password will need to be changed on the first login.
 * The first argument provided is the username and any number of arguments after that are processed as the input for the comments field.
+
+[python scripting project - encrypting text using the caesar cipher, decryption, and brute force decryption also available](https://github.com/tjkhara/projects/blob/master/python/caesar_cipher/caesar_cipher.py)
+
+* Encrypt your text using the caesar cipher using a shift value
+* Decrypt the encrypted text using the shift value
+* Decrypt the encypted text using a brute force method
+
+[Object Oriented Python Scripting Project](https://github.com/tjkhara/courses_repo/blob/master/python3_masterclass_jp/sandbox/FRE%20-%20test%203%20adding%20in%20random%20letter.ipynb)
+
+* Added on to the caesar cipher
+* Three step cipher
+  * Added in a random letter at every other index position
+  * Reversed the string
+  * Used a randomly shuffled alphabet for a caesar cipher
+* Contains decryption method as well
