@@ -47,3 +47,7 @@ the new account holder.
 [Traversing Directories and Files Recursively To Search For a Pattern in the Text Files Using Regular Expressions](https://github.com/tjkhara/projects/tree/master/python/traversing_file_structure_and_using_regex)
 
 * Used os.walk() to traverse through directory structure and examine the content of all the text files to look for a link regular expression pattern
+* Used shutil to unzip downloaded zip file
+* Explored directories and files using os neutral methods such as os.listdir()
+* Read text of the files within numerous sub directories
+* Then searched using the re module
