@@ -51,3 +51,11 @@ the new account holder.
 * Explored directories and files using os neutral methods such as os.listdir()
 * Read text of the files within numerous sub directories
 * Then searched using the re module
+
+[Encryption and Decryption scripts in python](https://github.com/tjkhara/projects/blob/master/python/encryption_decryption/encryption.py)
+
+* Use this script to encrypt any sensitive data and get a key along with the encrypted message
+* Use the key and the encrypted message in the decryption script to decrypt this data
+* Potential use could be to store sensitive crendential information on the cloud or on a private git repo
+* Still need to investigate the use of public private key encryption for the same purpose
+* This is possibly insecure for this purpose but better than storing sensitive data in plain text
