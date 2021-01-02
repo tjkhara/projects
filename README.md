@@ -1,6 +1,41 @@
 # Projects
 
-Repo for projects starting Aug 2020
+Update for wrapping up 2020
+
+[nodejs - socket.io real time chat app](https://github.com/tjkhara/socket.io-chatapp)
+
+Live app link: https://tjkhara-chatapp.herokuapp.com/
+
+This app:
+
+* Uses the socket.io protocol to enable users to send messages from the client to the server and from server to the chat rooms
+* Enables users to join different chat rooms and chat with other clients in those chat rooms
+* Messages are not stored and are emitted and received in real time
+* Users can share their locations as well
+
+[nodejs - task manager api](https://github.com/tjkhara/task-manager-api)
+
+Live api link: https://tjkhara-task-manager-api.herokuapp.com/
+
+This app:
+
+* Enables front end users to make requests for creating, reading, updating, and deleting tasks.
+* Project tested with jest.
+* Has email integration with sendgrid API.
+* Is integrated with MongoDB.
+* Handles image formatting and uploading pictures to the server.
+* Supports filtering, pagination, and sorting of data.
+
+[nodejs - weather app](https://github.com/tjkhara/weather-app)
+
+Live app link: https://tjkhara-weather-app.herokuapp.com/
+
+This app:
+
+* Enables users to get the live wether for any location.
+* Uses the geolocation api along with the weatherstack api.
+
+Projects built post August 2020
 
 [bash scripting project - adding local users](./bash_scripting/add-local-user.sh)
 
