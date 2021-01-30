@@ -1,6 +1,38 @@
 # Projects
 
-Update for wrapping up 2020
+## January 2021
+
+### Todo App
+
+Live app link: direful-cap.surge.sh
+
+This app:
+
+* Has a simple CRUD application using browser local storage to manage todos
+* Uses webpack and babel to make the app functional on older browsers with modern code
+* Allows the user to complete todos, hide completed todos, and search todos
+
+### Notes App
+
+Live app link: https://tjnotes.netlify.app/
+
+This app:
+
+* Has a simple CRUD application using browser local storage to manage notes
+* Uses webpack and babel to make the app functional on older browsers with modern code
+* Allows the user to open multiple browser tabs and syncs state across all tabs
+
+### Hangman Game
+
+Live app link: https://tjhangman.netlify.app/
+
+This app:
+
+* Allows the user to play the hangman game in a browser
+* Uses webpack and babel to make the app functional on older browsers with modern code
+* Uses an external api to load new words for games
+
+## Update for wrapping up 2020
 
 [nodejs - socket.io real time chat app](https://github.com/tjkhara/socket.io-chatapp)
 
