@@ -1,5 +1,15 @@
 # Projects
 
+## Feb 2021
+
+### HTML/CSS/Web Design
+
+Omnifood website: https://cocky-elion-672a4e.netlify.app/
+
+* Beautiful design
+* Responsive
+* Single page website for a food company
+
 ## January 2021
 
 ### Todo App
